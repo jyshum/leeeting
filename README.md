@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/jyshum/leeeting/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/jyshum/leeeting/tree/master/0622-design-circular-queue) |
 | [1656-design-an-ordered-stream](https://github.com/jyshum/leeeting/tree/master/1656-design-an-ordered-stream) |
@@ -47,4 +48,24 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/jyshum/leeeting/tree/master/0622-design-circular-queue) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyshum/leeeting/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
