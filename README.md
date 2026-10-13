@@ -8,10 +8,12 @@
 | [0303-range-sum-query-immutable](https://github.com/jyshum/leeeting/tree/master/0303-range-sum-query-immutable) |
 | [1603-design-parking-system](https://github.com/jyshum/leeeting/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/jyshum/leeeting/tree/master/1656-design-an-ordered-stream) |
+| [2043-simple-bank-system](https://github.com/jyshum/leeeting/tree/master/2043-simple-bank-system) |
 ## Simulation
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/jyshum/leeeting/tree/master/1603-design-parking-system) |
+| [2043-simple-bank-system](https://github.com/jyshum/leeeting/tree/master/2043-simple-bank-system) |
 ## Counting
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jyshum/leeeting/tree/master/0303-range-sum-query-immutable) |
 | [1656-design-an-ordered-stream](https://github.com/jyshum/leeeting/tree/master/1656-design-an-ordered-stream) |
+| [2043-simple-bank-system](https://github.com/jyshum/leeeting/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,6 +32,7 @@
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/jyshum/leeeting/tree/master/1656-design-an-ordered-stream) |
+| [2043-simple-bank-system](https://github.com/jyshum/leeeting/tree/master/2043-simple-bank-system) |
 ## Data Stream
 |  |
 | ------- |
